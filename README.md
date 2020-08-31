@@ -16,8 +16,8 @@ Esse projeto utiliza o conceito de Reactive RESTful
 
 ### Endpoints
 
-http://localhost:8080/pokemons
+http://localhost:8080/pokemon
 
-http://localhost:8080/pokemons/events
+http://localhost:8080/pokemon/events
 
-http://localhost:8080/pokemons/{id}
+http://localhost:8080/pokemon/{id}
